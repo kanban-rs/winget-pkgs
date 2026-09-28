@@ -12,6 +12,7 @@ PackageUrl: https://github.com/kanban-rs/kanban
 License: Apache-2.0
 LicenseUrl: https://github.com/kanban-rs/kanban/blob/master/LICENSE.md
 ShortDescription: Terminal-based kanban board inspired by lazygit
+Description: Keyboard-first project management for the terminal, with a CLI, a TUI and an MCP server. Previously published on winget as fulsomenko.kanban; that identifier is retired in favour of kanban-rs.kanban after the project moved to the kanban-rs organization.
 Moniker: kanban
 Tags:
 - kanban
